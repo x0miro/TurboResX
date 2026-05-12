@@ -1,7 +1,7 @@
 # 🚀 TurboResX
 
 <p align="center">
-  <img src="logo.png" width="180" />
+  <img src="ùy.ico" width="180" />
 </p>
 
 <p align="center">
