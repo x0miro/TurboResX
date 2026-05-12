@@ -1,0 +1,13 @@
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\bin\Release\TurboResX By MiRo.exe.config
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\bin\Release\TurboResX By MiRo.exe
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\bin\Release\TurboResX By MiRo.pdb
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\bin\Release\TurboResX By MiRo.xml
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\bin\Release\Newtonsoft.Json.dll
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.vbprojAssemblyReference.cache
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX_By_MiRo.Resources.resources
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.vbproj.GenerateResource.cache
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.vbproj.CoreCompileInputs.cache
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.vbproj.CopyComplete
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.exe
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.xml
+C:\Users\MIRO\source\repos\TurboResX By MiRo\TurboResX By MiRo\obj\Release\TurboResX By MiRo.pdb
