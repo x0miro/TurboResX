@@ -303,7 +303,7 @@ Module Program
             If addToProject = "y" Then
 
                 Try
-
+                    '
                     ProjectUpdater.
     UpdateProjects(
         files,
