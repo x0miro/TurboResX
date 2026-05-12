@@ -1,7 +1,7 @@
 # 🚀 TurboResX
 
 <p align="center">
-  <img src="my.ico" width="180" />
+  <img src="icon.png" width="180" />
 </p>
 
 <p align="center">
